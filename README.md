@@ -1,3 +1,11 @@
+Weather Forecast Application
+Key Skills: React.js, JavaScript, REST API, HTML5, CSS3
+
+Developed a responsive weather application using React.js that displays real-time weather information for searched locations.
+Integrated the OpenWeatherMap API to fetch temperature, humidity, wind speed, and weather conditions.
+Implemented React Hooks (useState, useEffect) for state management and asynchronous API requests.
+Added input validation and error handling to improve user experience.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
